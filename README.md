@@ -1,3 +1,5 @@
+Note: All bugs and typos in the official version have been fixed, refering to the link [http://gushedaoren.blog.163.com/blog/static/173663405201451911754149/](http://gushedaoren.blog.163.com/blog/static/173663405201451911754149/). This is the gradle-based project.
+
 SlidingMenu ([Play Store Demo][7])
 ===========
 
